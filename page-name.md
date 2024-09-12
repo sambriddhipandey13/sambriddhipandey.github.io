@@ -1,3 +1,3 @@
 layout: page
-title: "SAMBRIDDHI PANDEY"
+title: "Sambriddhi Pandey"
 permalink: /homepage 
